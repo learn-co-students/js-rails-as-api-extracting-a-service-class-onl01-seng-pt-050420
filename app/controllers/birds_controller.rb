@@ -1,2 +1,3 @@
-class BirdsController < ApplicationController
-end
+class Bird < ApplicationRecord
+
+  end
